@@ -1,4 +1,4 @@
-# rascunho
+# LightDarkToggleInFlutter
 
 A new Flutter project to document how to switch dark/light mode in the AppBar.
 We use Provider to receive and notify color theme changes in the application. 
